@@ -13,14 +13,14 @@
   "meta-version": "0",
   "name": "Operator::DynvarOr",
   "perl": "6.c",
-  "production": false,
+  "production": true,
   "provides": {
-      "Operator::DynvarOr": "lib/Operator/DynvarOr.rakumod"
+    "Operator::DynvarOr": "lib/Operator/DynvarOr.rakumod"
   },
   "raku": null,
   "resources": [
   ],
-  "source-url": "https://github.com/gfldex/raku-operator-dynvaror.git",
+  "source-url": "https://github.com/gfldex/raku-operator-dynvaror/archive/raku-operator-dynvaror-0.1.0.tar.gz",
   "support": {
     "source": null
   },
@@ -28,5 +28,5 @@
   ],
   "test-depends": [
   ],
-  "version": "0.0.1"
+  "version": "0.1.0"
 }
